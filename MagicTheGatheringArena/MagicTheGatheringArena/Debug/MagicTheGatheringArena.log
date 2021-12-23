@@ -1,0 +1,17 @@
+﻿  MagicTheGatheringArena.cpp
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(614,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(771,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(782,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(792,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(802,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(815,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(832,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(845,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1112,23): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1149,33): warning C4101: 'creatureCardGetsFirstStrike': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1408,27): warning C4018: '<=': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1474,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1502,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1104): warning C4715: 'CardColorCost': tüm denetim yolları değer döndürmez
+C:\Users\elfan\source\repos\MagicTheGatheringArena\MagicTheGatheringArena\MagicTheGatheringArena.cpp(1441): warning C4715: 'drawCardForCombat': tüm denetim yolları değer döndürmez
+  MagicTheGatheringArena.vcxproj -> C:\Users\elfan\source\repos\MagicTheGatheringArena\Debug\MagicTheGatheringArena.exe
